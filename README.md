@@ -1,3 +1,3 @@
 # opensource_hardware
 
-test
+upload sch and pcb
